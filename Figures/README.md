@@ -4,3 +4,10 @@
 - video-degree.png : Distribution of video degrees in the bipartite graph. This represents the number of unique students that have watched a particular video
 - video-proj-degree.png : Distribution of degrees of 1-mode video projection. This represents the number of neighbors (videos the same student has watched)
 - video-vews-monthly.png : Distribution of video views across the semester
+- between-centrality-video.png : Distribution of betweenness centrality measures for the projected video network.
+- close-centrality-video.png : Distribution of closeness centrality measures for the projected video network.
+- cluster-coefficient-video.png : Distribution of clustering coefficient measures for the projected video network.
+- deg-centrality-video.png : Distribution of degree centrality measures for the projected video network.
+- eig-centrality-video.png : Distribution of eigenvector centrality measures for the projected video network.
+- video-avg-month.png - Dustribution of the average month in which each video was viewed.
+- video-first-view.png - Count of videos first viewed in each month.
