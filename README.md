@@ -3,6 +3,7 @@ This repository contains the code and other materials for Network Analysis and M
 
 ## What's included
 A python script used to generate the results and figures.
+An SQL script used to generate the data used in the paper.
 The figures included in the final paper.
 A copy of the final paper.
 
